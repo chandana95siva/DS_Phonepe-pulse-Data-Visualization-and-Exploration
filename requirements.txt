@@ -1,0 +1,8 @@
+streamlit
+dash
+plotly
+numpy
+Pillow
+pandas
+requests
+mysql-connector-python
